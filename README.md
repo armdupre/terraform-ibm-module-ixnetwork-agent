@@ -1,1 +1,1 @@
-# terraform-ibm-module-ixnetwork-agent
+# module-ixnetwork-agent/ibm
